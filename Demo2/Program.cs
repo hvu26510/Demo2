@@ -115,40 +115,6 @@ class demo
 
         //Console.ReadKey();
         #endregion
-        #region tính thuế thu nhập cá nhân mới
-
-        ////nhập mức lương cần tính
-        //Console.WriteLine("Thu nhập:");
-        //string? input = Console.ReadLine();
-        //Console.WriteLine("Số người phụ thuộc?");
-        //string? phuthuoc = Console.ReadLine();
-        //int phuthuocNo = 0;
-        //double income;
-        //double incometax = 0;
-        //double assessableIncometax = 0;
-        //// kiểm tra dữ liệu đầu vào có đúng hay không?
-        //if (double.TryParse(input, out income) && income > 0 && int.TryParse(phuthuoc, out phuthuocNo) && phuthuocNo >= 0)
-        //{
-        //    Console.WriteLine($" Thu nhập của bạn là: {income} đồng");
-        //    Console.WriteLine($" Số người phụ thuộc: {phuthuocNo}");
-        //    assessableIncometax = income- 11000000 - phuthuocNo * 4400000;
-        //    Console.WriteLine($" Thu nhập tính thuế: {assessableIncometax} đồng");
-
-        //    if(assessableIncometax <= 5000000)
-        //    {
-        //        incometax = assessableIncometax * 0.05;
-        //    }
-
-
-        //    Console.WriteLine($" Thuế thu nhập của bạn là: {incometax} đồng");
-        //}
-        //else
-        //{
-        //    Console.WriteLine("Dữ liệu nhập vào sai");
-        //}
-
-        //Console.ReadKey();
-        #endregion
 
     }
     // Hàm tính thuế thu nhập cá nhân của Việt Nam
