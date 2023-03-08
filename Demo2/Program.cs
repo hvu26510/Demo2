@@ -20,7 +20,7 @@ class demo
 
         Console.WriteLine("xin chao, this use snippet");
         Console.WriteLine("cái này update");
-
+        Console.WriteLine("cái này update dòng 23");
 
         #region lệnh if
         #region ví dụ 1
