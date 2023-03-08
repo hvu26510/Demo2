@@ -19,6 +19,7 @@ class demo
         //Console.WriteLine("xin chao, this use snippet");
 
         Console.WriteLine("xin chao, this use snippet");
+        Console.WriteLine("cái này update");
 
 
         #region lệnh if
